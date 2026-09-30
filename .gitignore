@@ -1,0 +1,13 @@
+__pycache__/
+dist/
+build/
+双机分片/*.zip
+*.py[cod]
+.pytest_cache/
+.idea/
+logs/
+output/
+runtime/
+archive/
+js_reverse_cache/
+.venv/
